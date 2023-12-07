@@ -37,3 +37,7 @@ The corporation will not retain any excess business holdings as defined in Secti
 The corporation will not make any investments in such manner as to subject it to tax under Section 4944 of the Internal Revenue Code of 1954, or corresponding provisions of any later federal tax laws.
 
 The corporation will not make any taxable expenditures as defined in Section 4945(d) of the Internal Revenue Code of 1954, or corresponding provisions of any later federal tax laws.
+
+## ARTICLE IV MEMBERS
+### Section 1. **MEMBERSHIP**
+This corporation shall have no members.
