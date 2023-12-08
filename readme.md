@@ -99,3 +99,13 @@ Other regular meetings of the board may be held without notice at such time and 
 
 ### Section 14. AUTHORITY TO CALL SPECIAL MEETINGS
 Special meetings of the board for any purpose may be called at any time by the chairperson of the board, if any, the president or any vice president, or the secretary or any two directors.
+
+### Section 15. MANNER OF GIVING NOTICE OF SPECIAL MEETINGS
+Notice of the time and place of special meetings shall be given to each director by at least one of the following methods:
+- by personal delivery of written notice;
+- by first-class mail, postage prepaid;
+- by telephone, either directly to the director or to a person at the director’s office who would reasonably be expected to communicate that notice promptly to the director;
+- by telegram, charges prepaid;
+- by electronic means: email, SMS text message, or Slack
+
+All such notices shall be given or sent to the director’s address, telephone number, or electronic mail address as shown on the records of the corporation, or to the director's Slack account at https<no-link>://banannyshare.slack.com.
