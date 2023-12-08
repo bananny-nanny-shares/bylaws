@@ -96,3 +96,6 @@ The board shall hold a regular meeting for purposes of organization, election of
 
 ### Section 13. OTHER REGULAR MEETINGS
 Other regular meetings of the board may be held without notice at such time and place as the board may fix from time to time.
+
+### Section 14. AUTHORITY TO CALL SPECIAL MEETINGS
+Special meetings of the board for any purpose may be called at any time by the chairperson of the board, if any, the president or any vice president, or the secretary or any two directors.
