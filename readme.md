@@ -133,3 +133,14 @@ Any action that the board is required or permitted to take may be taken without 
 
 ### Section 23. COMPENSATION AND REIMBURSEMENT OF DIRECTORS
 Directors may receive such compensation, if any, for their services, and such reimbursement of expenses, as may be determined by board resolution to be just and reasonable as to the corporation at the time the resolution is adopted.
+
+### Section 24. COMMITTEES OF THE BOARD
+The board, by resolution adopted by a majority of the directors then in office, provided a quorum is present, may create one or more committees, each consisting of two or more directors, and no persons who are not directors, to serve at the pleasure of the board which shall be the voting members of the committee. The committee may have one or more committee members who are not directors; such committee members shall be either be (i) “advisory members” who shall not have any voting rights on the committee or (ii) voting committee members in which case the actions of the committee shall be advisory and need to be approved by the Board to be effective. Any such committee shall limit its activities to the accomplishment of the tasks for which it was appointed and shall have no power to act except as specifically conferred by action of the Board. Upon completion of the tasks for which created, a committee shall be discharged. Appointments to committees of the board shall be by majority vote of the authorized number of directors. The board may appoint one or more directors as alternate members of any such committee, who may replace any absent member at any meeting. Any such committee, to the extent provided in the board resolution, shall have all the authority of the board except that no committee, regardless of board resolution, may:
+
+1. Fill vacancies on the board or on any committee that has the authority of the board;
+2. Fix compensation of the directors for serving on the board or on any committee;
+3. Amend or repeal bylaws or adopt new bylaws;
+4. Amend or repeal any board resolution that by its express terms is not so amendable or repealable;
+5. Create any other committees of the board or appoint the members of committees of the board; or
+6. Expend corporate funds to support a nominee for director after more people have been nominated for director than can be elected.
+<!-- I dropped the whole charitable trust / California clause -->
