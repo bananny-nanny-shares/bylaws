@@ -81,3 +81,8 @@ Except as provided below, any director may resign by giving written notice to th
 
 ### Section 8. **FILLING VACANCIES**
 Vacancies on the board may be filled by a majority of the directors then in office, whether or not less than a quorum, or by a sole remaining director.
+
+### Section 9. **NO VACANCY ON REDUCTION OF NUMBER OF DIRECTORS**
+No reduction of the authorized number of directors shall have the effect of removing any director before that director’s term of office expires.
+
+
