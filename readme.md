@@ -124,3 +124,6 @@ Notice of a meeting need not be given to any director who, either before or afte
 
 ### Section 20. ADJOURNMENT OF DIRECTORS’ MEETING
 A majority of the directors present, whether or not a quorum is present, may adjourn any meeting to another time and place.
+
+### Section 21. NOTICE OF ADJOURNED DIRECTORS’ MEETING
+Notice of the time and place of holding an adjourned meeting need not be given unless the original meeting is adjourned for more than 24 hours. If the original meeting is adjourned for more than 24 hours, notice of any adjournment to another time and place shall be given, before the time of the adjourned meeting, to the directors who were not present at the time of the adjournment.
