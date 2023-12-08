@@ -130,3 +130,6 @@ Notice of the time and place of holding an adjourned meeting need not be given u
 
 ### Section 22. ACTION WITHOUT A DIRECTORS’ MEETING
 Any action that the board is required or permitted to take may be taken without a meeting if all members of the board consent in writing to that action. Such action by written consent shall have the same force and effect as any other validly approved action of the board. All such consents shall be filed with the minutes of the proceedings of the board.
+
+### Section 23. COMPENSATION AND REIMBURSEMENT OF DIRECTORS
+Directors may receive such compensation, if any, for their services, and such reimbursement of expenses, as may be determined by board resolution to be just and reasonable as to the corporation at the time the resolution is adopted.
