@@ -67,3 +67,13 @@ No more than forty-nine percent (49%) of the persons serving on the board may be
 1. The initial board of directors shall be appointed by the Incorporator. Except as provided below, each director shall hold office for one year and until a successor has been elected by the board of directors. Thereafter, each successor director shall be elected by a majority of the board of directors. Each director, including a director elected or appointed to fill a vacancy shall hold office until expiration of the term for which elected or appointed, and until a successor has been elected and qualified.
 2. In the event of a director’s elected term having expired and two or more meetings of the Board or ninety (90) calendar days (whichever is less) having passed since the expiry of the director’s term without a new director having been elected, the term of such director shall be terminated.
 3. A director may be removed from the Board at any time prior to the expiry of such director’s term for any reason by a vote of <!-- Changed from a conventional two thirds -->three fifths of the authorized directors of the Board or if less than all of the authorized directors of the Board have been elected, then a quorum of the elected Board directors at two meetings of the Board, the second of which shall be more than forty five (45) days after the first Board meeting and for which a vote of a majority of the authorized directors of the Board if less than all of the authorized directors of the Board have been elected, then a quorum of the elected Board directors at such second meeting of the Board . A director may be removed from the Board at any time prior to the expiry of such director’s term for cause as defined in a resolution of the Board by a vote of three fifths of the authorized directors of the Board or if less than all of the authorized directors of the Board have been elected, then a quorum of the elected Board directors then elected at a single meeting of the Board.
+
+### Section 6. **EVENTS CAUSING VACANCY**
+A vacancy or vacancies on the board shall exist on the occurrence of the following:
+
+1. the death or resignation of any director,
+2. the declaration by resolution of the board of a vacancy in the office of a director who has been declared of unsound mind by an order of court or convicted of a felony,<!-- , or, if the corporation holds assets in charitable trust, has been found by a final order or judgment of any court to have breached a duty arising under Section 7238 of the California Corporations Code -->
+3. the increase of the authorized number of directors, or
+4. a removal or resignation as provided in this Article.
+
+
