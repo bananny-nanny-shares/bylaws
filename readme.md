@@ -190,3 +190,13 @@ The treasurer shall deposit, or cause to be deposited, all money and other valua
 
 ### Section 14. RESPONSIBILITIES OF THE TREASURER; BOND
 If required by the board, the treasurer shall give the corporation a bond in the amount and with the surety or sureties specified by the board for faithful performance of the duties of the office and for restoration the corporation of all its books, papers, vouchers, money, and other property of any kind in the possession or under the control of the treasurer on their death, resignation, retirement, or removal from office.
+
+## ARTICLE VII INDEMNIFICATION
+### Section 1. RIGHT OF INDEMNITY
+To the fullest extent permitted by law, this corporation shall indemnify its directors, officers, employees, and other persons described in Chapter 8 of the Texas Business Organizations Code, including persons formerly occupying any such position, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any “proceeding,” as that term is used in that Section, and including any action by or in the right of the corporation, by reason of the fact that the person is or was a person described in that Section. “Expenses,” as used in this bylaw, shall have the same meaning as in Chapter 8 of the Texas Business Organizations Code.
+
+### Section 2. APPROVAL OF INDEMNITY
+On written request to the board by any person seeking indemnification under Chapter 8 of the Texas Business Organizations Code, the board shall promptly determine under Chapter 8 of the Texas Business Organizations Code whether the applicable standard of conduct set forth in Chapter 8 of the Texas Business Organizations Code has been met and, if so, the board shall authorize indemnification.
+
+### Section 3. ADVANCEMENT OF EXPENSES
+To the fullest extent permitted by law and except as otherwise determined by the board in a specific instance, expenses incurred by a person seeking indemnification in defending any proceeding shall be advanced by the corporation before final disposition of the proceeding, on receipt by the corporation of an undertaking by or on behalf of that person that the advance will be repaid unless it is ultimately determined that the person is entitled to be indemnified by the corporation for those expenses.
