@@ -121,3 +121,6 @@ A majority of the authorized number of directors shall constitute a quorum for t
 
 ### Section 19. [WAIVER OF NOTICE OF DIRECTORS’ MEETING](https://www.boardeffect.com/blog/waiver-notice-board-meeting/)
 Notice of a meeting need not be given to any director who, either before or after the meeting, signs a waiver of notice, a written consent to the holding of the meeting, or an approval of the minutes of the meeting. The waiver of notice or consent need not specify the purpose of the meeting. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meetings. Notice of a meeting need not be given to any director who attends the meeting and does not protest, before or at the commencement of the meeting, the lack of notice to him or her.
+
+### Section 20. ADJOURNMENT OF DIRECTORS’ MEETING
+A majority of the directors present, whether or not a quorum is present, may adjourn any meeting to another time and place.
