@@ -144,3 +144,6 @@ The board, by resolution adopted by a majority of the directors then in office, 
 5. Create any other committees of the board or appoint the members of committees of the board; or
 6. Expend corporate funds to support a nominee for director after more people have been nominated for director than can be elected.
 <!-- I dropped the whole charitable trust / California clause -->
+
+### Section 25. MEETINGS AND ACTION OF COMMITTEES OF THE BOARD
+Meetings and actions of committees of the board shall be governed by, held, and taken in accordance with, the provisions of these bylaws concerning meetings and other board actions except that the time for regular meetings of such committees and calling of special meetings of such committees may be determined either by board resolution, or if there is none, by resolution of the committee. Minutes of each meting of any committee shall be kept and shall be filed with the corporate records. The board may adopt rules for the government of any committee that are consistent with these bylaws or, in the absence of rules adopted by the board, the committee may adopt such rules.
