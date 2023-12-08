@@ -87,3 +87,6 @@ No reduction of the authorized number of directors shall have the effect of remo
 
 ### Section 10. PLACE OF DIRECTORS’ MEETINGS
 Meetings of the board shall be held at any place within or outside Texas that has been designated by resolution of the board or in the notice of the meeting or, if not so designated, at the principal office of the corporation.
+
+### Section 11. DIRECTORS’ MEETINGS BY TELEPHONE OR OTHER ELECTRONIC MEANS OF COMMUNICATION.
+Any meeting may be held by conference telephone or by other electronic means of communication, as long as all directors participating in the meeting can hear one another or read what each other is communicating, according to [Texas Business Organizations Code Section 6.002](https://statutes.capitol.texas.gov/Docs/BO/htm/BO.6.htm#6.002). All such directors shall be deemed to be present in person at such a meeting.
