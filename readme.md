@@ -112,3 +112,6 @@ All such notices shall be given or sent to the director’s address, telephone n
 
 ### Section 16. TIME REQUIREMENTS FOR NOTICES OF SPECIAL MEETINGS
 Notices of special meetings sent by first-class mail shall be deposited in the United States mails at least four days before the time set for the meeting. Notices given by personal delivery, telephone, telegraph or electronic means shall be delivered, telephoned, given to the telegraph company, or transmitted by electronic means at least 48 hours before the time set for the meeting.
+
+### Section 17. CONTENTS OF NOTICES OF SPECIAL MEETINGS
+The notice of a special meeting shall state the time of the meeting, and the place if the place is other than the principal office of the corporation. It need not specify the purpose of the meeting.
