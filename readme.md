@@ -85,4 +85,5 @@ Vacancies on the board may be filled by a majority of the directors then in offi
 ### Section 9. **NO VACANCY ON REDUCTION OF NUMBER OF DIRECTORS**
 No reduction of the authorized number of directors shall have the effect of removing any director before that director’s term of office expires.
 
-
+### Section 10. **PLACE OF DIRECTORS’ MEETINGS**
+Meetings of the board shall be held at any place within or outside Texas that has been designated by resolution of the board or in the notice of the meeting or, if not so designated, at the principal office of the corporation.
