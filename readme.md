@@ -90,3 +90,6 @@ Meetings of the board shall be held at any place within or outside Texas that ha
 
 ### Section 11. DIRECTORS’ MEETINGS BY TELEPHONE OR OTHER ELECTRONIC MEANS OF COMMUNICATION.
 Any meeting may be held by conference telephone or by other electronic means of communication, as long as all directors participating in the meeting can hear one another or read what each other is communicating, according to [Texas Business Organizations Code Section 6.002](https://statutes.capitol.texas.gov/Docs/BO/htm/BO.6.htm#6.002). All such directors shall be deemed to be present in person at such a meeting.
+
+### Section 12. INITIAL DIRECTORS’ MEETING
+The board shall hold a regular meeting for purposes of organization, election of officers, and the transaction of other business. Notice of this meeting is not required.
