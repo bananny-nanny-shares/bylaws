@@ -93,3 +93,6 @@ Any meeting may be held by conference telephone or by other electronic means of 
 
 ### Section 12. INITIAL DIRECTORS’ MEETING
 The board shall hold a regular meeting for purposes of organization, election of officers, and the transaction of other business. Notice of this meeting is not required.
+
+### Section 13. OTHER REGULAR MEETINGS
+Other regular meetings of the board may be held without notice at such time and place as the board may fix from time to time.
