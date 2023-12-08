@@ -109,3 +109,6 @@ Notice of the time and place of special meetings shall be given to each director
 - by electronic means: email, SMS text message, or Slack
 
 All such notices shall be given or sent to the director’s address, telephone number, or electronic mail address as shown on the records of the corporation, or to the director's Slack account at https<no-link>://banannyshare.slack.com.
+
+### Section 16. TIME REQUIREMENTS FOR NOTICES OF SPECIAL MEETINGS
+Notices of special meetings sent by first-class mail shall be deposited in the United States mails at least four days before the time set for the meeting. Notices given by personal delivery, telephone, telegraph or electronic means shall be delivered, telephoned, given to the telegraph company, or transmitted by electronic means at least 48 hours before the time set for the meeting.
