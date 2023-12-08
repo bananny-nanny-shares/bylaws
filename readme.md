@@ -147,3 +147,46 @@ The board, by resolution adopted by a majority of the directors then in office, 
 
 ### Section 25. MEETINGS AND ACTION OF COMMITTEES OF THE BOARD
 Meetings and actions of committees of the board shall be governed by, held, and taken in accordance with, the provisions of these bylaws concerning meetings and other board actions except that the time for regular meetings of such committees and calling of special meetings of such committees may be determined either by board resolution, or if there is none, by resolution of the committee. Minutes of each meting of any committee shall be kept and shall be filed with the corporate records. The board may adopt rules for the government of any committee that are consistent with these bylaws or, in the absence of rules adopted by the board, the committee may adopt such rules.
+
+## ARTICLE VI OFFICERS
+### Section 1. OFFICERS OF THE CORPORATION
+The officers of the corporation shall be a president, a secretary, and a treasurer. The corporation may also have, at the board's discretion, a chairperson of the board, one or more vice presidents, one or more assistant secretaries, one or more assistant treasurers, and such other officers as may be appointed in accordance with Section 3 of this Article. Any number of offices may be held by the same person, except the offices of president and secretary.
+
+### Section 2. ELECTION OF OFFICERS
+The officers of the corporation, except those appointed under Section 3 of this Article, shall be chosen annually by the board and shall serve at the pleasure of the board, subject to the rights, if any, of any officer under any contract of employment.
+
+### Section 3. OTHER OFFICERS
+The board may appoint and may authorize the chairperson of the board, the president, or other officer to appoint any other officers that the corporation may require. Each officer so appointed shall have the title, hold office for the period, have the authority, and perform the duties specified in the bylaws or determined by the board.
+
+### Section 4. REMOVAL OF OFFICERS
+Without prejudice to any rights of an officer under any contract of employment, an officer may be removed with or without cause by the board, and also, if the board did not choose the officer, by any officer on whom the board may confer that power of removal.
+
+### Section 5. RESIGNATION OF OFFICERS
+Any officer may resign at any time by giving written notice to the corporation. The resignation shall take effect as of the date the notice is received or at any later time specified in the notice and, unless otherwise specified in the notice, the resignation need not be accepted to be effective. Any resignation shall be without prejudice to the rights, if any, of the corporation under any contract to which the officer is a party.
+
+### Section 6. VACANCIES IN OFFICE
+A vacancy in any office because of death, resignation, removal, disqualification, or any other cause shall be filled in the manner prescribed in these bylaws for regular appointments to that office, provided, however, that vacancies need not be filled on an annual basis.
+
+### Section 7. RESPONSIBILITIES OF THE CHAIRPERSON OF THE BOARD
+If a chairperson of the board is elected, they shall preside at board meetings and shall exercise and perform such other powers and duties as the board may assign from time to time. If there is no president, the chairperson of the board shall also be the chief executive officer and shall have the powers and duties prescribed by these bylaws for the president of the corporation.
+
+### Section 8. RESPONSIBILITIES OF THE PRESIDENT
+Subject to such supervisory powers as the board may give to the chairperson of the board, if any, and subject to the control of the board, the president shall be the general manager of the corporation and shall supervise, direct, and control the corporation's activities, affairs, and officers. In the absence of the chairperson of the board, or if there is none, the president shall preside at all board meetings. The president shall have such other powers and duties as the board or bylaws may prescribe.
+
+### Section 9. RESPONSIBILITIES OF VICE PRESIDENTS
+In the absence or disability of the president, the vie presidents, if any, in order of their rank as fixed by the board or, if not ranked, a vice president designated by the board, shall perform all duties of the president. When so acting, a vice president shall have all powers of and be subject to all restrictions on the president. The vice presidents shall have such other powers and perform such other duties as the board or the bylaws may prescribe.
+
+### Section 10. RESPONSIBILITIES OF THE SECRETARY; BOOK OF MINUTES
+The secretary shall keep or cause to be kept, at the corporation's principal office or such other place as the board may direct, a book of minutes of all meetings, proceedings, and actions of the board and of committees of the board. The minutes of meetings shall include the time and place of holding, whether the meeting was annual, regular, or special and, if special, how authorized, the notice given, and the names of those present at board and committee meetings. The secretary shall keep or cause to be kept, at the principal office in Texas or on the Internet, a copy of the articles of incorporation and bylaws, as amended to date.
+
+### Section 11. RESPONSIBILITIES OF THE SECRETARY; NOTICES, SEAL, AND OTHER DUTIES
+The secretary shall give, or cause to be given, notice of all meetings of members, of the board, and of committees of the board required by these bylaws to be given. The secretary shall have such other powers and perform such other duties as the board or the bylaws may prescribe.
+
+### Section 12. RESPONSIBILITIES OF THE TREASURER; BOOKS OF ACCOUNT
+The treasurer shall keep and maintain, or cause to be kept and maintained, adequate and correct books and accounts of the corporation's properties and transactions. The treasurer shall send or cause to be given to the directors such financial statements and reports as are required by law, by these bylaws, or by the board to be given. The books of account shall be open to inspection by any director at all reasonable times.
+
+### Section 13. RESPONSIBILITIES OF THE TREASURER; DEPOSIT AND DISBURSEMENT OF MONEY AND VALUABLES
+The treasurer shall deposit, or cause to be deposited, all money and other valuables in the name and to the credit of the corporation with such depositories as the board may designate, shall disburse the corporation's funds as the board may order, shall render to the president, chairperson of the board, if any, and the board, when requested, an account of all transactions as treasurer and of the financial condition of the corporation, and shall have such other powers and perform such other duties as the board or the bylaws may prescribe.
+
+### Section 14. RESPONSIBILITIES OF THE TREASURER; BOND
+If required by the board, the treasurer shall give the corporation a bond in the amount and with the surety or sureties specified by the board for faithful performance of the duties of the office and for restoration the corporation of all its books, papers, vouchers, money, and other property of any kind in the possession or under the control of the treasurer on their death, resignation, retirement, or removal from office.
