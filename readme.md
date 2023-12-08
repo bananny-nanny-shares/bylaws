@@ -78,3 +78,6 @@ A vacancy or vacancies on the board shall exist on the occurrence of the followi
 
 ### Section 7. **RESIGNATIONS**
 Except as provided below, any director may resign by giving written notice to the chairperson of the board, if any, or to the president or the secretary of the board. The resignation shall be effective when the notice is given unless it specifies a later time for the resignation to become effective. If a director’s resignation is effective at a later time, the board may elect a successor to take office when the resignation becomes effective.
+
+### Section 8. **FILLING VACANCIES**
+Vacancies on the board may be filled by a majority of the directors then in office, whether or not less than a quorum, or by a sole remaining director.
