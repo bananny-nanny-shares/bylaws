@@ -41,3 +41,28 @@ The corporation will not make any taxable expenditures as defined in Section 494
 ## ARTICLE IV MEMBERS
 ### Section 1. **MEMBERSHIP**
 This corporation shall have no members.
+
+## ARTICLE V DIRECTORS
+### Section 1. **GENERAL CORPORATE POWERS**
+Subject to the provisions and limitations of the Texas Business Organizations Code law and any other applicable laws, the corporation’s activities and affairs shall be managed, and all corporate powers shall be exercised, by or under the direction of the board.
+
+### Section 2. **SPECIFIC POWERS**
+Without prejudice to the general powers set forth in Section 1 of this Article, but subject to the same limitations, the directors shall have the power to:
+
+1. Appoint and remove, at the pleasure of the board, all the corporation’s officers, agents, and employees; prescribe powers and duties for them that are consistent with law, with the articles of incorporation, and with these bylaws; and fix their compensation and require from them security for faithful performance of their duties;
+2. Change the principal office or the principal business office in Texas from one location to another; and cause the corporation to be qualified to conduct its activities in any other state, territory, dependency, or country and conduct its activities within or outside Texas;
+3. Adopt and use a corporate seal; and alter the forms of the seal and certificates;
+4. Borrow money and incur indebtedness on behalf of the corporation and cause to be executed and delivered for the corporation’s purposes, in the corporate name, promissory notes, bonds, debentures, deeds of trust, mortgages, pledges, hypothecations, and other evidences of debt and securities.
+
+### Section 3. **AUTHORIZED NUMBER AND QUALIFICATIONS**
+The board of directors shall consist of at least 3 but no more than 11 directors until changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution adopted by the board of directors. Any member of the board, except an employee who is serving as a member of the board, who has served six consecutive years on the board will not be eligible for election to the board until one year has passed from the last day of such member’s term.
+
+### Section 4. **RESTRICTION ON INTERESTED PERSONS AS DIRECTORS**
+No more than forty-nine percent (49%) of the persons serving on the board may be interested persons. An interested person is
+
+1. any person compensated by the corporation for services rendered to it within the previous 12 months, whether as a full-time or part-time employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director as a director; and
+2. any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of such person. However, any violation of the provisions of this paragraph shall not affect the validity or enforceability of any transaction entered into by the corporation.
+
+### Section 5. **ELECTION, DESIGNATION, AND TERM OF OFFICE**
+
+
