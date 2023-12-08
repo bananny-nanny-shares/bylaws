@@ -200,3 +200,7 @@ On written request to the board by any person seeking indemnification under Chap
 
 ### Section 3. ADVANCEMENT OF EXPENSES
 To the fullest extent permitted by law and except as otherwise determined by the board in a specific instance, expenses incurred by a person seeking indemnification in defending any proceeding shall be advanced by the corporation before final disposition of the proceeding, on receipt by the corporation of an undertaking by or on behalf of that person that the advance will be repaid unless it is ultimately determined that the person is entitled to be indemnified by the corporation for those expenses.
+
+## ARTICLE VIII INSURANCE
+### Section 1. INSURANCE
+The corporation shall have the right to purchase and maintain insurance to the fullest extent permitted by law on behalf of its officers, directors, employees, and other agents, against any liability asserted against or incurred by any officer, director, employee, or agent in such capacity or arising out of the officer’s, director’s, employee’s, or agent’s status as such.
