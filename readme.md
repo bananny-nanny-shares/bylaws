@@ -127,3 +127,6 @@ A majority of the directors present, whether or not a quorum is present, may adj
 
 ### Section 21. NOTICE OF ADJOURNED DIRECTORS’ MEETING
 Notice of the time and place of holding an adjourned meeting need not be given unless the original meeting is adjourned for more than 24 hours. If the original meeting is adjourned for more than 24 hours, notice of any adjournment to another time and place shall be given, before the time of the adjourned meeting, to the directors who were not present at the time of the adjournment.
+
+### Section 22. ACTION WITHOUT A DIRECTORS’ MEETING
+Any action that the board is required or permitted to take may be taken without a meeting if all members of the board consent in writing to that action. Such action by written consent shall have the same force and effect as any other validly approved action of the board. All such consents shall be filed with the minutes of the proceedings of the board.
