@@ -1,5 +1,5 @@
 # Bylaws of Bananny
-**A Texas Nonprofit Public Benefit Corporation**
+**A Texas Nonprofit Corporation**
 
 ## ARTICLE I NAME
 ### Section 1. NAME
@@ -14,10 +14,13 @@ The board may at any time establish branch or subordinate offices at any place o
 
 ## ARTICLE III PURPOSES AND LIMITATIONS
 ### Section 1. GENERAL PURPOSES
-This corporation is a nonprofit public benefit corporation and is not organized for the private gain of any person. It is organized under the Nonprofit Public Benefit Corporation Law for public charitable purposes.
+This corporation is a nonprofit corporation and is not organized for the private gain of any person. It is organized under the Texas Business Organizations Code for public charitable purposes.
 
 ### Section 2. SPECIFIC PURPOSES
-Within the context of the general purposes stated above, this corporation shall: (1) promote nanny shares as a solution to the childcare crisis in the United States; and (2) match families together for the purpose of operating a nanny share.
+Within the context of the general purposes stated above, this corporation shall:
+1. promote nanny shares as a solution to the childcare crisis in the United States;
+2. match families for the purpose of operating a nanny share; and
+3. collect and analyze data to improve nanny share outcomes.
 
 ### Section 3. LIMITATIONS
 This corporation shall not, except to an insubstantial degree, engage in any activities or exercise any powers that are not in furtherance of the purposes of this corporation, and the corporation shall not carry on any other activities not permitted to be carried on (a) by a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code of 1954 or the corresponding provision of any future Unites States internal revenue law, or (b) by a corporation, contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of 1954 or the corresponding provision of any future United States internal revenue law.
