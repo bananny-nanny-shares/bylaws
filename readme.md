@@ -204,3 +204,28 @@ To the fullest extent permitted by law and except as otherwise determined by the
 ## ARTICLE VIII INSURANCE
 ### Section 1. INSURANCE
 The corporation shall have the right to purchase and maintain insurance to the fullest extent permitted by law on behalf of its officers, directors, employees, and other agents, against any liability asserted against or incurred by any officer, director, employee, or agent in such capacity or arising out of the officer’s, director’s, employee’s, or agent’s status as such.
+
+## ARTICLE IX RECORDS AND REPORTS
+### Section 1. MAINTENANCE OF CORPORATE RECORDS
+The corporation shall keep:
+1. adequate and correct books and records of account; and
+2. written minutes of the proceedings of its board and committees of the board.
+
+### Section 2. MAINTENANCE AND INSPECTION OF ARTICLES AND BYLAWS
+The corporation shall keep at its principal office, or if its principal office is not in Texas, at its principal business office in this state, the original or a copy of the articles of incorporation and bylaws, as amended to date, which shall be open to inspection by the directors at all reasonable times during office hours.
+
+### Section 3. INSPECTION BY DIRECTORS
+Every director shall have the absolute right at any reasonable time to inspect the corporation’s books, records, documents of every kind, physical properties, and the records of each of its subsidiaries. The inspection may be made in person or by the director’s agent or attorney. The right of inspection includes the right to copy and make extracts of documents.
+
+### Section 4. ANNUAL REPORT
+1. An annual report shall be prepared within 120 days after the end of the corporation’s fiscal year. That report shall contain the following information in appropriate detail:
+   - A balance sheet as of the end of the fiscal year, and an income statement and statement of changes in financial position for the fiscal year, accompanied by any report on them by independent accounts, or, if there is no such report, by the certificate of an authorized officer of the corporation that they were prepared without audit from the books and records of the corporation.
+2. This Section shall not apply if the corporation receives less than $10,000 in gross revenues or receipts during the fiscal year.
+
+### Section 5. ANNUAL STATEMENT OF CERTAIN TRANSACTIONS AND INDEMNIFICATIONS
+As part of the annual report, or as a separate document if no annual report is issued, the corporation shall annually prepare and furnish to each director a statement of any transaction or indemnification of the following kind within 120 days after the end of the corporation’s fiscal year:
+
+1. Any transaction (i) in which the corporation, its parent, or its subsidiary was a party, (ii) in which an “interested person” had a direct or indirect material financial interest, and (iii) which involved more than $50,000, or was one of a number of transactions with the same interested person involving, in the aggregate, more than $50,000. For this purpose, an “interested person” is either of the following:
+   - Any director or officer of the corporation, its parent, or subsidiary (but mere common directorship shall not be considered such an interest); or
+   - Any holder of more than 10 percent of the voting power of the corporation, its parent, or its subsidiary. The statement shall include a brief description of the transaction, the names of interested persons involved, their relationship to the corporation, the nature of their interest in the transaction and, if practicable, the amount of that interest, provided that if the transaction was with a partnership in which the interested person is a partner, only the interest of the partnership need be stated.
+2. A brief description of the amounts and circumstances of any loans, guaranties, indemnifications, or advances aggregating more than $10,000 paid during the fiscal year to any officer or director of the corporation, unless the loan, guaranty, indemnification, or advance is not subject to the provisions of Texas Business Organizations Code.
