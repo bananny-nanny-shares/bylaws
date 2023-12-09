@@ -233,3 +233,10 @@ As part of the annual report, or as a separate document if no annual report is i
 ## ARTICLE X CONSTRUCTION AND DEFINITIONS
 ### Section 1. CONSTRUCTION AND DEFINITIONS
 Unless the context requires otherwise, the general provisions, rules of construction, and definitions in the Texas Business Organizations Code shall govern the construction of these bylaws. Without limiting the generality of the preceding sentence, the masculine gender includes the feminine and neuter, the singular includes the plural and the plural includes the singular, and the term “person” includes both a legal entity and a natural person.
+
+## ARTICLE XI AMENDMENTS
+### Section 1. LIMITATION ON AMENDMENT BY BOARD
+Subject to the limitations set forth below, the board may adopt, amend, or repealbylaws. The board may not extend the term of a director beyond that for which the director was elected.
+
+### Section 2. HIGH VOTE REQUIREMENT
+If any provision of these bylaws requires the vote of a larger proportion of the board than is otherwise required by law, that provision may not be altered, amended, or repealed except by that greater vote.
